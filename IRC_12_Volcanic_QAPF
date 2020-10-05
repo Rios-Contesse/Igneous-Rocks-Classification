@@ -1,4 +1,4 @@
-Based on Streckeisen 1976
+Based on Streckeisen 1979
 
 
 Alkali Feldspar Rhyolite                 (VolumePercent("Ig-07_CSG_03-34-2".Mafic)<90) and (((VolumePercent("Ig-01_CSG_03-34-2".Quartz)/(VolumePercent("Ig-01_CSG_03-34-2".Quartz) + VolumePercent("Ig-01_CSG_03-34-2".Alkali Feldspar) + VolumePercent("Ig-01_CSG_03-34-2".Plagioclase Feldspar)))*100)>=20 and ((VolumePercent("Ig-01_CSG_03-34-2".Quartz)/(VolumePercent("Ig-01_CSG_03-34-2".Quartz) + VolumePercent("Ig-01_CSG_03-34-2".Alkali Feldspar) + VolumePercent("Ig-01_CSG_03-34-2".Plagioclase Feldspar)))*100)<=60) and (((VolumePercent("Ig-01_CSG_03-34-2".Plagioclase Feldspar)/(VolumePercent("Ig-01_CSG_03-34-2".Alkali Feldspar) + VolumePercent("Ig-01_CSG_03-34-2".Plagioclase Feldspar)))*100)<=10)
