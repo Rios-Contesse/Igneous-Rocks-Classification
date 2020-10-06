@@ -1,3 +1,5 @@
+Prefix according to the glass amount in rocks based on Le Maitre et al., 2002.
+
 Glass-bearing    (MassPercent("Ig-01_CSG_03-34-2".Glass)<20)
 Glass-rich       (MassPercent("Ig-01_CSG_03-34-2".Glass)>=20 and MassPercent("Ig-01_CSG_03-34-2".Glass)<50)
 Glassy           (MassPercent("Ig-01_CSG_03-34-2".Glass)>=50 and MassPercent("Ig-01_CSG_03-34-2".Glass)<80)
